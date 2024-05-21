@@ -10,7 +10,9 @@ Use este template como base para projetos [**Nest.js**](https://nestjs.com/) com
 ## Links
 
 **Documentação Nest.js**: https://docs.nestjs.com
+
 **Documentação Prisma**: https://www.prisma.io/docs/getting-started
+
 **Conexão Nest.js com Prisma**: https://docs.nestjs.com/recipes/prisma
 
 **GitHub**: [@antoniocarlosvr](https://github.com/antoniocarlosvr)
