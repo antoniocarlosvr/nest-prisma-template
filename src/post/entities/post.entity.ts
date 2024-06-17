@@ -6,5 +6,5 @@ export class Post {
   content?: string;
   published?: boolean;
   author?: User;
-  authorId?: number;
+  authorId: number;
 }
