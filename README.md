@@ -16,3 +16,5 @@ Use este template como base para projetos [**Nest.js**](https://nestjs.com/) com
 **Conexão Nest.js com Prisma**: https://docs.nestjs.com/recipes/prisma
 
 **GitHub**: [@antoniocarlosvr](https://github.com/antoniocarlosvr)
+
+OBS: Configure no arquivo ".env" a conexão de seu banco.
