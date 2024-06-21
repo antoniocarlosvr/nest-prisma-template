@@ -3,6 +3,9 @@
 /node_modules
 /build
 
+#Conexão Database
+/.env
+
 # Logs
 logs
 *.log
